@@ -11,32 +11,30 @@ https://github.com/heejkoo/Awesome-Diffusion-Models 是一个github网站
 - [《Deep Unsupervised Learning using Nonequilibrium Thermodynamics》](https://proceedings.mlr.press/v37/sohl-dickstein15.html) 2015年 扩散模型起源
 
 - [《Denoising Diffusion Probabilistic Models》](http://arxiv.org/abs/2006.11239) 2020年 扩散模型兴起
-  https://github.com/lucidrains/denoising-diffusion-pytorch 对应pytorch实现
+  - https://github.com/lucidrains/denoising-diffusion-pytorch 对应pytorch实现
 
 - [《Improved Denoising Diffusion Probabilistic Models》](https://proceedings.mlr.press/v139/nichol21a.html) 2021年 第二篇论文的改进
-
-
-​      https://github.com/openai/improved-diffusion 对应pytorch实现
+   - https://github.com/openai/improved-diffusion 对应pytorch实现
 
 ### 3.看过的扩散模型博客
 
 - [The recent rise of diffusion-based models](https://maciejdomagala.github.io/generative_models/2022/06/06/The-recent-rise-of-diffusion-based-models.html)
-  可以了解到扩散模型近年比较经典的应用
+  - 可以了解到扩散模型近年比较经典的应用
 - [Introduction to Diffusion Models for Machine Learning](https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/)
-  从中可以了解到一个实现扩散模型的库denoising_diffusion_pytorch，博客中有使用案例
+  - 从中可以了解到一个实现扩散模型的库denoising_diffusion_pytorch，博客中有使用案例
 - [What are Diffusion Models?](https://lilianweng.github.io/posts/2021-07-11-diffusion-models/)
-  也是扩散模型的一个理论介绍博客，推导挺详细的
+  - 也是扩散模型的一个理论介绍博客，推导挺详细的
 - [Diffusion Models as a kind of VAE](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)
-  探究了VAE和扩散模型的联系
+  - 探究了VAE和扩散模型的联系
 - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
-  扩散模型理论和代码实现，**代码我进行理解加了注释与理论对应，方便大家理解**
+  - 扩散模型理论和代码实现，**代码我进行理解加了注释与理论对应，方便大家理解**
 - [An introduction to Diffusion Probabilistic Models](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html) 
-  也是一个介绍性博客，公式也很工整
+  - 也是一个介绍性博客，公式也很工整
 
 ### 4. 看过的一个B站视频
 
 - [54、Diffusion Model扩散模型理论与完整PyTorch代码详细解读](https://www.bilibili.com/video/BV1b541197HX?spm_id_from=333.337.search-card.all.click&vd_source=76d3e05c80d0417f315b79db5b98b2cf)
-  我是看过其他资料后才看的这个视频，所以一遍都能全看懂，不知道初看怎么样
+  - 我是看过其他资料后才看的这个视频，所以一遍都能全看懂，不知道初看怎么样
 
   **代码我也进行理解加了注释与理论对应，方便大家理解**
 
