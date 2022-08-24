@@ -27,7 +27,7 @@ https://github.com/heejkoo/Awesome-Diffusion-Models 是一个github网站
 - [Diffusion Models as a kind of VAE](https://angusturner.github.io/generative_models/2021/06/29/diffusion-probabilistic-models-I.html)
   - 探究了VAE和扩散模型的联系
 - [The Annotated Diffusion Model](https://huggingface.co/blog/annotated-diffusion)
-  - 扩散模型理论和代码实现，**代码我进行理解加了注释与理论对应，方便大家理解**
+  - 扩散模型理论和代码实现，**代码我进行理解加了注释与理论对应，方便大家理解** 见The Annotated Diffusion Model.ipynb
 - [An introduction to Diffusion Probabilistic Models](https://ayandas.me/blog-tut/2021/12/04/diffusion-prob-models.html) 
   - 也是一个介绍性博客，公式也很工整
 
@@ -36,7 +36,7 @@ https://github.com/heejkoo/Awesome-Diffusion-Models 是一个github网站
 - [54、Diffusion Model扩散模型理论与完整PyTorch代码详细解读](https://www.bilibili.com/video/BV1b541197HX?spm_id_from=333.337.search-card.all.click&vd_source=76d3e05c80d0417f315b79db5b98b2cf)
   - 我是看过其他资料后才看的这个视频，所以一遍都能全看懂，不知道初看怎么样
 
-  **代码我也进行理解加了注释与理论对应，方便大家理解**
+  **代码我也进行理解加了注释与理论对应，方便大家理解** 见Diffusion Model.ipynb
 
 ### 5.未看过的扩散模型博客
 
@@ -54,7 +54,7 @@ https://github.com/heejkoo/Awesome-Diffusion-Models 是一个github网站
 - [强烈推荐！台大李宏毅自注意力机制和Transformer详解！](https://www.bilibili.com/video/BV1v3411r78R?spm_id_from=333.337.search-card.all.click&vd_source=76d3e05c80d0417f315b79db5b98b2cf) B站视频
 - [《Attention Is All You Need》](https://proceedings.neurips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) transformer和注意力机制原论文
 - [Transformer论文逐段精读【论文精读】](https://www.bilibili.com/video/BV1pu411o7BE?spm_id_from=333.999.0.0&vd_source=76d3e05c80d0417f315b79db5b98b2cf)
-- [64 注意力机制【动手学深度学习v2】](https://www.bilibili.com/video/BV1264y1i7R1?spm_id_from=333.337.search-card.all.click&vd_source=76d3e05c80d0417f315b79db5b98b2cf)  **我根据官方资料整理了jupyter代码实现文件，可从头到尾直接运行**
+- [64 注意力机制【动手学深度学习v2】](https://www.bilibili.com/video/BV1264y1i7R1?spm_id_from=333.337.search-card.all.click&vd_source=76d3e05c80d0417f315b79db5b98b2cf)  **我根据官方资料整理了jupyter代码实现文件，可从头到尾直接运行** 见attention.ipynb
 - [Reparameterization Trick](https://lilianweng.github.io/posts/2018-08-12-vae/#reparameterization-trick) 白板推导变分推断后两节也有提到
 - [isotropic Gaussian distribution](https://math.stackexchange.com/questions/1991961/gaussian-distribution-is-isotropic)
 - [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
